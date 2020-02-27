@@ -1,5 +1,6 @@
 
 <?php
+//test from mahmood
 //--------------**  about this page   **-----------------------
 
     //This page is responsible for displaying the program by communicating with other files, which are opened when the program is executed
